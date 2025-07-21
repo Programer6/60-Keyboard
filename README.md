@@ -1,4 +1,4 @@
-# 60-Keyboard
+# 60%-Keyboard
 
 I built this 60% keyboard with KMK firmware because I wanted a compact, minimal layout that saves space without sacrificing functionality. Full-sized keyboards felt bulky for my setup! This my first keyboad which I designeed so I wanted to keep think simple..
 
