@@ -22,7 +22,7 @@ I built this 60% keyboard with KMK firmware because I wanted a compact, minimal 
 
 | Case                  |
 | --------------------- |
-| ![](assets/front.png) |
+| <img width="939" height="499" alt="Screenshot 2025-07-21 at 5 08 45 PM" src="https://github.com/user-attachments/assets/c9c08dc3-6a2f-4497-91ec-ee0285ae81d3" />|
 
 
 ## 3D Render:
