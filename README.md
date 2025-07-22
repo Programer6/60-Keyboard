@@ -1,6 +1,6 @@
 # 60%-Keyboard
 
-I built this 60% keyboard with KMK firmware because I wanted a compact, minimal layout that saves space without sacrificing functionality. Full-sized keyboards felt bulky for my setup! This is my first keyboard, which I designed, so I wanted to keep think simple (no QMK! ofc)
+Design for 60% keyboard with KMK firmware because I wanted a compact, minimal layout that saves space without sacrificing functionality. Full-sized keyboards felt bulky for my setup! This is my first keyboard, which I designed, so I wanted to keep think simple (no QMK, ofc)
 
 # PCB
 - The PCB's size is
