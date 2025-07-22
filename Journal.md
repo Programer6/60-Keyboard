@@ -5,7 +5,7 @@ _Made by: @codelife / @programmer6_
 |-------------------|-------------------|
 | **Project Status** | Awaiting funding |
 | **Total Time** |  30 Hours |
-| **CAD Link** | [Link to CAD Files] |
+| **CAD Link** | https://a360.co/3TSTLiT |
 | **Repository** | https://github.com/Programer6/60-Keyboard |
 
 ---
