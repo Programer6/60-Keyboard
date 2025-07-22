@@ -6,6 +6,7 @@ I built this 60% keyboard with KMK firmware because I wanted a compact, minimal 
 - The PCB's size is
 - 61x key default 60% Layout!
 - 2x Rotary Encoder
+- 2 screens!
 
 ## Images
 
