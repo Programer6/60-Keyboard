@@ -1,3 +1,20 @@
+# 3D Printer Design: CAD & PCB Documentation
+_Made by: @codelife / @programmer6_
+
+| | |
+|-------------------|-------------------|
+| **Project Status** | Awaiting funding |
+| **Total Time** | 25+ HOURS |
+| **CAD Link** | 
+| **Repository** | https://github.com/Programer6/60-Keyboard
+
+---
+
+June 19th, 2025 - 2.5 H
+I spent most of the day in KiCad, laying out the schematic.
+I designed a 5-row by 14-column key matrix. Each switch is paired with a 1N4148 diode to prevent "ghosting," which is when the keyboard thinks you've pressed keys you haven't. I also added support for two rotary encoders (for volume/scrolling) and two I2C connectors for OLED screens. 
+
+ I double-checked all my connections, and everything seems to be in order.
 
 
 <img width="922" height="325" alt="Screenshot 2025-07-19 at 3 03 35 PM" src="https://github.com/user-attachments/assets/91b1a52a-3929-411d-830e-d3bd27bb1767" />
