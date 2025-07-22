@@ -43,8 +43,10 @@ While I was at it, I fixed a few other issues. I had initially messed up the I2C
 <img width="738" height="437" alt="Screenshot 2025-07-22 at 3 11 16 PM" src="https://github.com/user-attachments/assets/528d92e7-473b-4cc8-a21b-d4cdd058492e" />
 
 
-Routing
+Routing - 21 June
 I spent the entire day routing the PCB in KiCad e decision to use a GPIO expander yesterday really paid off, as it made the routing much more manageable. 
 
 Here's the result of today's work:
 <img width="1259" height="626" alt="Screenshot 2025-07-22 at 3 12 04 PM" src="https://github.com/user-attachments/assets/8e59cedd-7bce-45e0-9640-4e2a06265251" />
+
+
