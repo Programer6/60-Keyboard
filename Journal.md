@@ -13,12 +13,12 @@ _Made by: @codelife / @programmer6_
 June 19th, 2025 - 2.5 H
 I spent most of the day in KiCad, laying out the schematic.
 I designed a 5-row by 14-column key matrix. Each switch is paired with a 1N4148 diode to prevent "ghosting," which is when the keyboard thinks you've pressed keys you haven't. I also added support for two rotary encoders (for volume/scrolling) and two I2C connectors for OLED screens. 
-
- I double-checked all my connections, and everything seems to be in order.
+I double-checked all my connections, and everything seems to be in order.
 
 
 <img width="922" height="325" alt="Screenshot 2025-07-19 at 3 03 35 PM" src="https://github.com/user-attachments/assets/91b1a52a-3929-411d-830e-d3bd27bb1767" />
 
+The plan is to use a Raspberry Pi Pico as the microcontroller because it's powerful, cheap, and has great community support with KMK firmware.
 <img width="459" height="448" alt="Screenshot 2025-07-19 at 3 03 10 PM" src="https://github.com/user-attachments/assets/4712bb58-a9f2-4ab3-9b73-7d53c326902f" />
 
 <img width="864" height="304" alt="Screenshot 2025-07-19 at 3 04 04 PM" src="https://github.com/user-attachments/assets/bac4f354-a012-40e6-b589-4181e977069b" />
