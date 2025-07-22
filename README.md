@@ -28,12 +28,24 @@ I built this 60% keyboard with KMK firmware because I wanted a compact, minimal 
 |
 
 
-
-## 3D Render (VID):
-
-
-## BOM - See CSV for pricing
-
+## BOM 
+| Name | Qty | Final Price | Link |
+| :--- | :-- | :---------- | :--- |
+| Cherry Profile PBT Keycaps | 1 | 17 | [Link](https://www.aliexpress.com/item/1005009109030179.html) |
+| EC11s Rotary Encoder Code 5pin | | 8 | [Link](https://www.aliexpress.us/item/1005008610645902.html) |
+| Knob | 2 | 6 | [Link](https://www.aliexpress.us/item/1005008610645902.html) |
+| OLED Module 1 | 1 | 4 | [Link](https://www.aliexpress.com/item/1005007038294972.html) |
+| OLED Module 2 | 1 | 4 | |
+| Gateron EF Grayish | 70 | 22 | [Link](https://www.aliexpress.us/item/1005006358112479.html) |
+| Plate Mount Stabilizers | 9 | 9 | [Link](https://www.aliexpress.us/item/1005006528731543.html) |
+| m3 16 mm | 10 | 3 | [Link](https://www.aliexpress.us/item/32810872544.html) |
+| M3 25 mm | 10 | 3 | [Link](https://www.aliexpress.us/item/32810872544.html) |
+| PCB | 44 | 40 | |
+| Raspberry Pi Pico | 6 | 6 | [Link](https://www.aliexpress.us/item/1005007661444023.html) |
+| Poron Gasket Strip | | 4 | [Link](https://www.aliexpress.com/item/1005003607093794.html) |
+| M3(OD4.2mm) Heatset Insert | 25 | 2 | [Link](https://www.aliexpress.us/item/1005003582355741.html) |
+| Keyboard Case | 1 | 5 | Print Legend |
+| Diode 1N4148 Through | 80 | 1.3 | [Link](https://www.aliexpress.us/item/4000142272546.html) |
 
 ## Total Pricing
-
+140$
