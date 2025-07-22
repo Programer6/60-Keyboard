@@ -10,7 +10,7 @@ _Made by: @codelife / @programmer6_
 
 ---
 
-June 19th, 2025 - 3.5 H
+June 18th, 2025 - 3.5 H
 I spent most of the day in KiCad, laying out the schematic.
 I designed a 5-row by 14-column key matrix. Each switch is paired with a 1N4148 diode to prevent "ghosting," which is when the keyboard thinks you've pressed keys you haven't. I also added support for two rotary encoders (for volume/scrolling) and two I2C connectors for OLED screens. 
 I double-checked all my connections, and everything seems to be in order.
