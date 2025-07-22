@@ -29,8 +29,8 @@ The plan is to use a Raspberry Pi Pico as the microcontroller because it's power
 <img width="672" height="537" alt="Screenshot 2025-07-19 at 3 17 49 PM" src="https://github.com/user-attachments/assets/927a9c1e-b539-4829-85b3-ea7f4366518e" />
 
 
-June 20th - 2 H
-Inical placing of the the components nothing wire as I realse that these is still some stugg to update in kicad
+June 20th - 2.5 H
+Inical placing of the the components nothing wire as I realse that these is still some stugg to update in kicad & also add highway slikscreen!!
 <img width="1135" height="545" alt="Screenshot 2025-07-19 at 3 54 30 PM" src="https://github.com/user-attachments/assets/e1bca1c0-d389-4b26-a561-48e0bb4a825a" />
 
 
