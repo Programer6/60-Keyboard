@@ -49,4 +49,4 @@ I built this 60% keyboard with KMK firmware because I wanted a compact, minimal 
 | Diode 1N4148 Through | 80 | 1.3 | [Link](https://www.aliexpress.us/item/4000142272546.html) |
 
 ## Total Pricing
-140$
+140$ - High estimate price rounded up!
