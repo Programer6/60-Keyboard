@@ -30,8 +30,8 @@ The plan is to use a Raspberry Pi Pico as the microcontroller because it's power
 
 
 June 20th - 2 H
-Inical placing of the the components nothign wire as I realse that these is still some stugg to update in kicad
+Inical placing of the the components nothing wire as I realse that these is still some stugg to update in kicad
 <img width="1135" height="545" alt="Screenshot 2025-07-19 at 3 54 30 PM" src="https://github.com/user-attachments/assets/e1bca1c0-d389-4b26-a561-48e0bb4a825a" />
 
 
-![Uploading Screenshot 2025-07-20 at 3.42.06 PM.png…]()
+<img width="988" height="674" alt="Screenshot 2025-07-22 at 3 07 54 PM" src="https://github.com/user-attachments/assets/6cae5e44-028c-4ac6-acfd-053b97d90547" />
