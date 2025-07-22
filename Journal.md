@@ -4,7 +4,7 @@ _Made by: @codelife / @programmer6_
 | | |
 |-------------------|-------------------|
 | **Project Status** | Awaiting funding |
-| **Total Time** |  25 Hours |
+| **Total Time** |  30 Hours |
 | **CAD Link** | [Link to CAD Files] |
 | **Repository** | https://github.com/Programer6/60-Keyboard |
 
