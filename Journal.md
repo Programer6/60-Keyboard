@@ -29,9 +29,22 @@ The plan is to use a Raspberry Pi Pico as the microcontroller because it's power
 <img width="672" height="537" alt="Screenshot 2025-07-19 at 3 17 49 PM" src="https://github.com/user-attachments/assets/927a9c1e-b539-4829-85b3-ea7f4366518e" />
 
 
-June 20th - 2.5 H
+June 19th - 2.5 H
 Inical placing of the the components nothing wire as I realse that these is still some stugg to update in kicad & also add highway slikscreen!!
 <img width="1135" height="545" alt="Screenshot 2025-07-19 at 3 54 30 PM" src="https://github.com/user-attachments/assets/e1bca1c0-d389-4b26-a561-48e0bb4a825a" />
 
 
 <img width="988" height="674" alt="Screenshot 2025-07-22 at 3 07 54 PM" src="https://github.com/user-attachments/assets/6cae5e44-028c-4ac6-acfd-053b97d90547" />
+Jun 20th -  3 H fix:
+I started laying out the PCB today and immediately ran into a problem. While the Pi Pico has a lot of GPIO pins, my initial design used almost all of them, which was going to make routing the board a nightmare. 
+To fix this, I decided to revise the schematic and add an MCP23017 GPIO expander
+
+While I was at it, I fixed a few other issues. I had initially messed up the I2C connections for the OLED screens. I've now consolidated the entire I2C bus, so the GPIO expander and the two screen connectors (J1, J2) all share the same SCL and SDA lines, with the proper pull-up resistors. This was thankfully pointed out by LemonGravy!
+<img width="738" height="437" alt="Screenshot 2025-07-22 at 3 11 16 PM" src="https://github.com/user-attachments/assets/528d92e7-473b-4cc8-a21b-d4cdd058492e" />
+
+
+Routing
+I spent the entire day routing the PCB in KiCad e decision to use a GPIO expander yesterday really paid off, as it made the routing much more manageable. 
+
+Here's the result of today's work:
+<img width="1259" height="626" alt="Screenshot 2025-07-22 at 3 12 04 PM" src="https://github.com/user-attachments/assets/8e59cedd-7bce-45e0-9640-4e2a06265251" />
