@@ -4,7 +4,7 @@ _Made by: @codelife / @programmer6_
 | | |
 |-------------------|-------------------|
 | **Project Status** | Awaiting funding |
-| **Total Time** | 25+ HOURS |
+| **Total Time** |  HOURS |
 | **CAD Link** | 
 | **Repository** | https://github.com/Programer6/60-Keyboard
 
@@ -43,10 +43,22 @@ While I was at it, I fixed a few other issues. I had initially messed up the I2C
 <img width="738" height="437" alt="Screenshot 2025-07-22 at 3 11 16 PM" src="https://github.com/user-attachments/assets/528d92e7-473b-4cc8-a21b-d4cdd058492e" />
 
 
-Routing - 21 June
+Routing - 21 June - 5
 I spent the entire day routing the PCB in KiCad e decision to use a GPIO expander yesterday really paid off, as it made the routing much more manageable. 
 
 Here's the result of today's work:
 <img width="1259" height="626" alt="Screenshot 2025-07-22 at 3 12 04 PM" src="https://github.com/user-attachments/assets/8e59cedd-7bce-45e0-9640-4e2a06265251" />
 
+June 22 -  4 added 3d models for keycad! - 3 h
+<img width="912" height="751" alt="Screenshot 2025-07-22 at 3 19 07 PM" src="https://github.com/user-attachments/assets/0bfc70dc-2301-4117-a2e4-269140e7fe88" />
+
+June 22 -  Adeed a case! - 4 Hours
+export the PCB model from KiCad and import it into Fusion 360. esigned a simple and functional two-part case: a main body that holds the PCB, and a top frame that acts as a bezel.D
+<img width="983" height="582" alt="Screenshot 2025-07-22 at 3 20 31 PM" src="https://github.com/user-attachments/assets/01d4e48a-214e-4d0e-b626-b5e005a0509f" />
+
+June 23 - Made the kmk firmware!
+
+
+
+June 23 -  Made the readnme, documented progress & took the images, BOM - 3 horus
 
