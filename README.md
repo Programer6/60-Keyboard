@@ -25,7 +25,7 @@ Design for 60% keyboard with KMK firmware because I wanted a compact, minimal la
 | Case                  |
 | --------------------- |
 | <img width="665" height="386" alt="Screenshot 2025-08-04 at 1 41 27 PM" src="https://github.com/user-attachments/assets/9b20d601-f33c-43ce-954d-7b5567538925" />|
-| <img width="884" height="560" alt="Screenshot 2025-07-21 at 5 10 22 PM" src="https://github.com/user-attachments/assets/41986d2a-ee07-4fb3-a305-38cdb8490b15" />
+| <img width="679" height="459" alt="Screenshot 2025-08-04 at 1 43 16 PM" src="https://github.com/user-attachments/assets/f7d285dd-62e2-42a9-b0d1-d834c6ee5c22" />
 |
 
 
