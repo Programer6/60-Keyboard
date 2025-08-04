@@ -71,3 +71,7 @@ I spent the day writing the firmware for the keyboard using KMK, a powerful Circ
 
 #### Documentation & BOM (3 hours)
 Finalized the project documentation by creating the Bill of Materials (BOM), organizing all progress logs and images, and writing this README file to document the entire process.
+
+Updated Keyboard after getting rejected:
+<img width="747" height="485" alt="Screenshot 2025-08-04 at 1 51 33 PM" src="https://github.com/user-attachments/assets/16f99c8d-8ff5-45ad-a8ba-ae6789c33148" />
+
