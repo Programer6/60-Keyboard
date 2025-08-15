@@ -75,3 +75,9 @@ Finalized the project documentation by creating the Bill of Materials (BOM), org
 Updated Keyboard after getting rejected:
 <img width="747" height="485" alt="Screenshot 2025-08-04 at 1 51 33 PM" src="https://github.com/user-attachments/assets/16f99c8d-8ff5-45ad-a8ba-ae6789c33148" />
 
+ #### Got unofficial review from Taran the Idiot
+-  Production folder had a file named production with no file type which I forgot to add so updated
+-  Update BOM to use knob from printing Legion
+- hugged the oleds a bit more in cad
+- Update the journal and image in repo with the changes made!
+
