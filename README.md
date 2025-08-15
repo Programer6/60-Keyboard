@@ -35,10 +35,10 @@ Design for 60% keyboard with KMK firmware because I wanted a compact, minimal la
 | :--- | :-- | :---------- | :--- |
 | Cherry Profile PBT Keycaps | 1 | 17 | [Link](https://www.aliexpress.com/item/1005009109030179.html) |
 | EC11s Rotary Encoder Code 5pin | | 8 | [Link](https://www.aliexpress.us/item/1005008610645902.html) |
-| Knob | 2 | 6 | [Link](https://www.aliexpress.us/item/1005008610645902.html) |
+| Knob | 2 | 6 |Preint Legend|
 | OLED Module 1 | 1 | 4 | [Link](https://www.aliexpress.com/item/1005007038294972.html) |
 | OLED Module 2 | 1 | 4 | |
-| Gateron EF Grayish | 70 | 22 | [Link](https://www.aliexpress.us/item/1005006358112479.html) |
+| Gateron EF Grayish | 70 | 22 | Will buy myself [Link](https://www.aliexpress.us/item/1005006358112479.html) |
 | Plate Mount Stabilizers | 9 | 9 | [Link](https://www.aliexpress.us/item/1005006528731543.html) |
 | m3 16 mm | 10 | 3 | [Link](https://www.aliexpress.us/item/32810872544.html) |
 | M3 25 mm | 10 | 3 | [Link](https://www.aliexpress.us/item/32810872544.html) |
